@@ -13,5 +13,10 @@ console.log(val.toLocaleString('en-IN'));
 
 //=================Maths==================
 console.log(Math) // object [math] {}->has lots of properties
+Math.floor()
+Math.log()
+Math.ceil()
+Math.random()
+
 
 
