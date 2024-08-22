@@ -31,3 +31,6 @@ obj.greeting = function(){
 }
 // console.log(obj.greeting) if this => [Function (anonymous)] ref..
 console.log(obj.greeting())//=>hello obj user 23 
+
+obj.id2 = 10    // creating the obj member obj.id2....
+console.log(obj.id2)
